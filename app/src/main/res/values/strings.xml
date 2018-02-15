@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Dev Company App</string>
+    <string name="company_name">Android Dev Company Raiski!</string>
+    <string name="company_slogan">Young man\'s dream come true</string>
+    <string name="company_info">A company that is a reliable, fast, and professional Android application development company who listens and respects customers as well as stays on schedule</string>
+    <string name="contact_information">Contact information:</string>
+    <string name="information">Koulukatu 14\n60100 Seinäjoki\n\n+358 40 412 6026\nsupport@raiskidev.com</string>
+</resources>
